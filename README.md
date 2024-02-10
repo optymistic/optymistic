@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋✨
+
+- 🌱 I’m currently learning Flutter for App Development
+
+
 
 <!--
 **optymistic/optymistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
